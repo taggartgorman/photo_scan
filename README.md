@@ -7,7 +7,7 @@ The choice of model will have a huge impact on the results of the image keywords
 ## Configuration
 
 - Set the location and port for Ollama in OLLAMA_URL. The default Ollama URL is `http://localhost:11434`.
-- Set LLM_NAME with your model name. This should be the name reported by `ollama list` (without the version information), such as `llava` or ``llama3`.
+- Set LLM_NAME with your model name. This should be the name reported by `ollama list` (without the version information), such as `llava` or `llama3`.
 - If you wish to use a different port when serving the web interface, change the value of PORT.
 
 ## Setup
